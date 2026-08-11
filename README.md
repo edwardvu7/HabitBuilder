@@ -1,1 +1,3 @@
 In progress Java project
+
+This is a daily tracker which can assist in measuring progress overtime in many different aspects of your life. It can carry and calculate a log showing your development of skills, time spent on hobbies, and maintaining overall health. Current things being implemented are mainly consistency for things such as workouts, hobbies, studying, and tracking adequate sleep. The goal is to act as a daily motivater to get stuff done and show your progress as you go along. 🥳
